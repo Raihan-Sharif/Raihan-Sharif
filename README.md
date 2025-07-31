@@ -186,7 +186,7 @@ currently_learning: ["DevOps", "Cloud Technologies", "Blockchain"]
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Raihan-Sharif&theme=dark&hide_border=true)](https://github.com/Raihan-Sharif)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Raihan-Sharif&theme=dark&hide_border=true](https://github.com/Raihan-Sharif)
 
 </div>
 
