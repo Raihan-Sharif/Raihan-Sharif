@@ -1,157 +1,328 @@
 # Hi there, I'm Md Raihan Sharif 👋
 
-**Assistant Manager | Senior Software Developer | Enterprise Applications Specialist | DevOps Enthusiast**
+<div align="center">
 
-📍 **Location:** Dhaka, Bangladesh  
-📧 **Contact:** raihan.raju@gmail.com  
-💼 **Experience:** 6+ years in full-time software development  
-🏢 **Currently:** Assistant Manager at LankaBangla Securities PLC
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Assistant+Manager;Senior+Software+Developer;Enterprise+Applications+Specialist;DevOps+Enthusiast;Team+Leader+%26+Mentor)
 
-## About Me
+</div>
 
-I'm a passionate Senior Software Developer and current Assistant Manager with over 6 years of progressive experience building enterprise-level financial applications. My journey at **LankaBangla Securities PLC** has been marked by consistent growth, from Officer to Assistant Manager, while specializing in developing scalable microservices and robust backend systems that serve the financial services sector.
+<div align="center">
 
-My expertise lies in creating high-performance applications that serve thousands of users daily, with a strong emphasis on security, reliability, and user experience in mission-critical financial environments.
-
-## 🏆 Key Achievements
-
-- **🥇 BASIS National ICT Award Champion (2019 & 2020)** - LankaBD Financial Portal and iBroker application
-- **🥈 2nd Bangladesh Fintech Award** - iBroker portfolio management application  
-- **✅ DSE & CSE Certification** - NGBO Back Office software compliance
-- **📈 Career Progression** - Advanced from Officer to Assistant Manager in 6+ years
-- Successfully delivered enterprise applications serving thousands of active traders
-- Led development of award-winning fintech solutions recognized nationally
-
-## 🚀 Professional Experience
-
-### **LankaBangla Securities PLC** | *Jan 2019 - Present (6 yrs 7 mos)*
-
-#### **Assistant Manager** | *Jan 2025 - Present (7 mos)*
-*Full-time | On-site | Dhaka, Bangladesh*
-
-Leading development teams and driving technical architecture decisions for enterprise financial applications. Responsible for team leadership, project delivery, and strategic technology initiatives.
-
-**Key Skills:** Team Leadership • ASP.NET Core • C# • React.js • Next.js • Microsoft SQL Server • WebSocket • Order Management • Full-Stack Development • DevOps • Git
-
-#### **Senior Executive** | *Jan 2022 - Dec 2024 (3 yrs)*
-*Full-time | Dhaka, Bangladesh*
-
-Led full-stack development of complex financial applications, mentored junior developers, and established development best practices and coding standards.
-
-**Key Skills:** .NET Core • API Development • .NET Framework • UML • Bootstrap • Enterprise Software • ASP.NET Core • React.js • Git • C# • Full-Stack Development • SQL • ASP.NET MVC • JavaScript • ASP.NET Web API • Microsoft SQL Server • HTML5 • Code Review • Highchart.js
-
-#### **Executive** | *Oct 2019 - Dec 2021 (2 yrs 3 mos)*
-*Full-time | Dhaka, Bangladesh*
-
-Developed and enhanced core financial portal features, implemented real-time trading solutions, and optimized application performance for high-traffic scenarios.
-
-**Key Skills:** .NET Core • API Development • SignalR • Enterprise Software • ASP.NET Core • React.js • Git • C# • Full-Stack Development • SQL • TradingView • ASP.NET MVC • JavaScript • Microsoft SQL Server • HTML5 • Code Review • Highchart.js
-
-#### **Officer** | *Jan 2019 - Oct 2019 (10 mos)*
-*Contract | Dhaka, Bangladesh*
-
-Started my journey as a web developer, focusing on www.lankabd.com financial portal development. Responsible for developing new features, performance optimization, bug fixes, and system maintenance using Microsoft .NET and MS SQL Server.
-
-**Key Skills:** .NET Core • API Development • .NET Framework • UML • Bootstrap • SignalR • ASP.NET Core • React.js • Git • C# • Full-Stack Development • SQL • TradingView • ASP.NET MVC • JavaScript • HTML5 • Code Review • Highchart.js
-
-## 🎯 Current Projects & Responsibilities
-
-- **Back Office Software (NGBO)** - Comprehensive financial operations management system
-- **Financial Portal (LankaBD)** - Advanced trading and financial services platform  
-- **iBroker Application** - Investor portfolio management solution
-- **Team Leadership** - Managing development teams and project delivery
-- **DevOps Implementation** - Infrastructure management and deployment automation
-
-## 📜 Professional Certifications
-
-### **Microsoft Certified**
-**Exam 486: Developing ASP.NET MVC Web Applications**  
-*Microsoft | Issued Dec 2018 - Expired Dec 2020*  
-*Credential ID: G991-3699*
-
-**Certification Skills:** JavaScript • HTML5 • Full-Stack Development • Analytical Skills • ASP.NET Core • Requirements Definition • .NET Core • API Development • C#
-
-## 💻 Technical Expertise
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend Development
-- **Languages:** C#, JavaScript
-- **Frameworks:** .NET Core, ASP.NET, ASP.NET MVC, ASP.NET Web API
-- **Database:** Microsoft SQL Server
-- **Architecture:** Microservices, RESTful APIs, SignalR
-- **Patterns:** UML, Enterprise Software Architecture
-
-### Frontend Development  
-- **Frameworks:** React.js, Next.js
-- **Languages:** JavaScript, HTML5, CSS3
-- **Styling:** Bootstrap, Tailwind CSS, jQuery
-- **Visualization:** Highchart.js, TradingView integrations
-
-### DevOps & Infrastructure
-- On-premise server management and deployment
-- CI/CD pipeline implementation
-- System monitoring and optimization
-- WebSocket implementations for real-time data
-
-### Specialized Skills
-- **Financial Technology:** Order Management Systems, Trading Platforms
-- **Real-time Systems:** WebSocket, SignalR for live data streaming
-- **Team Leadership:** Code Review, Mentoring, Project Management
-- **Requirements Analysis:** UML, System Design, API Development
-
-## 📊 GitHub Stats
-
-![Raihan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raihan-Sharif&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raihan-Sharif&layout=compact&theme=default&hide_border=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raihan-Sharif&theme=default&hide_border=true)](https://git.io/streak-stats)
-
-## 🏅 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Raihan-Sharif&theme=flat&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 📈 Activity Graph
-[![Raihan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Raihan-Sharif&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🔥 Current Focus
-
-- **Team Leadership & Management** - Leading development teams and strategic initiatives
-- **Advanced DevOps** - Cloud technologies and containerization
-- **Microservices Optimization** - Performance tuning and scalability
-- **Financial Technology Innovation** - Blockchain and modern fintech solutions
-- **Real-time Systems** - WebSocket and high-frequency trading systems
-
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://portfolio-blog-app-topaz.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdraihansharif)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raihan.raju@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raihan-Sharif)
 
-## 💼 Professional Summary
-
-Assistant Manager with 6+ years of progressive experience in enterprise financial software development. Proven track record of delivering award-winning applications, leading development teams, and driving technical innovation in the fintech sector. Expert in full-stack development with strong leadership capabilities and deep understanding of financial systems.
+</div>
 
 ---
 
-⭐ *"Leading teams to build robust financial solutions that make a difference in the fintech landscape"*
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+```yaml
+name: "Md Raihan Sharif"
+location: "Dhaka, Bangladesh"
+role: "Assistant Manager | Senior Software Developer"
+company: "LankaBangla Securities PLC"
+experience: "6+ years in enterprise software development"
+specialization: "Financial Applications & Team Leadership"
+achievements: 
+  - "BASIS National ICT Award Champion (2019 & 2020)"
+  - "2nd Bangladesh Fintech Award"
+  - "DSE & CSE Certified"
+languages: ["C#", "JavaScript", "SQL"]
+architecture: ["Microservices", "RESTful APIs", "Real-time Systems"]
+currently_learning: ["DevOps", "Cloud Technologies", "Blockchain"]
+```
+
+<br clear="right"/>
+
+## 🏆 Key Achievements
+
+<div align="center">
+
+| 🥇 **BASIS National ICT Award** | 🥈 **Bangladesh Fintech Award** | ✅ **DSE & CSE Certification** |
+|:---:|:---:|:---:|
+| Champion (2019 & 2020) | 2nd Position | NGBO Compliance |
+| LankaBD Portal & iBroker | Portfolio Management | Back Office Software |
+
+</div>
+
+- **📈 Career Progression** - Advanced from Officer to Assistant Manager in 6+ years
+- **👥 Team Leadership** - Successfully leading development teams and mentoring junior developers
+- **🎯 Enterprise Impact** - Delivered applications serving thousands of active traders daily
+- **🔧 Technical Innovation** - Pioneered real-time trading solutions and microservices architecture
+
+## 💼 Professional Journey
+
+<details>
+<summary><b>🏢 LankaBangla Securities PLC</b> | <i>Jan 2019 - Present (6 yrs 7 mos)</i></summary>
+
+### **Assistant Manager** | *Jan 2025 - Present (7 mos)*
+*Full-time | On-site | Dhaka, Bangladesh*
+
+<div align="left">
+
+```
+🎯 Leading development teams and driving technical architecture decisions
+📊 Responsible for strategic technology initiatives and project delivery
+🚀 Driving digital transformation in financial services sector
+```
+
+</div>
+
+**Key Technologies:** Team Leadership • ASP.NET Core • C# • React.js • Next.js • Microsoft SQL Server • PostgreSQL • WebSocket • Order Management • DevOps
 
 ---
 
-### 📋 Quick Stats
-- 🏢 **Current Role:** Assistant Manager at LankaBangla Securities PLC
-- 📊 **Projects:** 3+ Award-winning enterprise applications
-- 👥 **Team:** Leading development teams
-- 🏆 **Awards:** 3 National & Industry recognitions
-- 📈 **Growth:** Officer → Assistant Manager progression
-- 💻 **Specialization:** Enterprise Financial Applications & Team Leadership
+### **Senior Executive** | *Jan 2022 - Dec 2024 (3 yrs)*
+*Full-time | Dhaka, Bangladesh*
 
-*Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out for collaboration opportunities.*
+- Led full-stack development of complex financial applications
+- Mentored junior developers and established coding standards
+- Implemented microservices architecture for scalability
+
+**Tech Stack:** .NET Core • ASP.NET • PostgreSQL • React.js • SignalR • Enterprise Software
+
+---
+
+### **Executive** | *Oct 2019 - Dec 2021 (2 yrs 3 mos)*
+*Full-time | Dhaka, Bangladesh*
+
+- Developed real-time trading solutions with WebSocket integration
+- Optimized application performance for high-traffic scenarios
+- Enhanced core financial portal features
+
+**Specializations:** Real-time Systems • TradingView Integration • Performance Optimization
+
+---
+
+### **Officer** | *Jan 2019 - Oct 2019 (10 mos)*
+*Contract | Dhaka, Bangladesh*
+
+- Started as web developer on www.lankabd.com financial portal
+- Focused on feature development and system maintenance
+- Built foundation in enterprise software development
+
+**Foundation Skills:** .NET Framework • SQL Server • Web Development • System Maintenance
+
+</details>
+
+## 🛠️ Technical Arsenal
+
+### **Backend Mastery**
+<div align="center">
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-FF2D92?style=for-the-badge&logo=signalr&logoColor=white)
+
+</div>
+
+### **Database & Storage**
+<div align="center">
+
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</div>
+
+### **Frontend Excellence**
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+</div>
+
+### **Styling & UI**
+<div align="center">
+
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+</div>
+
+### **DevOps & Tools**
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+### **Specialized Technologies**
+<div align="center">
+
+![WebSocket](https://img.shields.io/badge/WebSocket-4F4F4F?style=for-the-badge&logo=websocket&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microgenetics&logoColor=white)
+![RESTful API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![TradingView](https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white)
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/Raihan-Sharif">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raihan-Sharif&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=A8B2D1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raihan-Sharif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=A8B2D1"/>
+</a>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raihan-Sharif&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=A8B2D1&sideLabels=A8B2D1&currStreakNum=F8D866&sideNums=F8D866)](https://git.io/streak-stats)
+
+</div>
+
+## 🏅 GitHub Achievements
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Raihan-Sharif&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Raihan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Raihan-Sharif&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+## 🎯 Current Focus & Expertise
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 **Technical Leadership**
+- Leading enterprise development teams
+- Architecting scalable financial systems
+- Implementing DevOps best practices
+- Code review and quality assurance
+
+### 💡 **Innovation Areas**
+- Microservices architecture optimization
+- Real-time trading system development
+- Cloud-native application design
+- Performance engineering
+
+</td>
+<td width="50%">
+
+### 🎓 **Learning & Growth**
+- Advanced cloud technologies (Azure/AWS)
+- Container orchestration (Kubernetes)
+- Blockchain and DeFi technologies
+- Modern testing frameworks
+
+### 🎯 **Strategic Goals**
+- Digital transformation leadership
+- Fintech innovation projects
+- Team scaling and mentorship
+- Technology stack modernization
+
+</td>
+</tr>
+</table>
+
+## 📜 Professional Certifications
+
+<div align="center">
+
+| **Certification** | **Provider** | **Status** | **Skills Validated** |
+|:---:|:---:|:---:|:---:|
+| **Exam 486: Developing ASP.NET MVC** | Microsoft | Certified (2018-2020) | ASP.NET Core, C#, Full-Stack Development |
+| **DSE & CSE Certification** | Stock Exchanges | Active | Financial Software Compliance |
+
+</div>
+
+## 🏢 Featured Projects
+
+<div align="center">
+
+| **Project** | **Description** | **Tech Stack** | **Impact** |
+|:---:|:---:|:---:|:---:|
+| **🏆 LankaBD Financial Portal** | Advanced trading platform | ASP.NET Core, React.js, SignalR | BASIS ICT Award Winner |
+| **📱 iBroker Application** | Portfolio management system | .NET Core, PostgreSQL, React | 2nd Bangladesh Fintech Award |
+| **💼 NGBO Back Office** | Comprehensive operations system | ASP.NET, SQL Server, WebSocket | DSE & CSE Certified |
+
+</div>
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+### 📱 **Find Me On**
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://portfolio-blog-app-topaz.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdraihansharif)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/RaihanSharifBD/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MdRaihanSharif)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raihan.raju@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/raihan_sharif)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/raihansharif)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raihan-Sharif)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💼 **Professional Summary**
+
+*Assistant Manager with 6+ years of progressive experience in enterprise financial software development. Proven track record of delivering award-winning applications, leading development teams, and driving technical innovation in the fintech sector. Expert in full-stack development with strong leadership capabilities and deep understanding of financial systems.*
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 **Quick Stats Dashboard**
+
+| 🏢 **Role** | 📈 **Experience** | 🏆 **Awards** | 👥 **Leadership** | 💻 **Specialization** |
+|:---:|:---:|:---:|:---:|:---:|
+| Assistant Manager | 6+ Years | 3 National Awards | Team Leadership | Enterprise Fintech |
+| LankaBangla Securities | Full-Stack Development | BASIS ICT Champion | Project Management | Real-time Systems |
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ *"Building the future of financial technology, one line of code at a time"* ⭐**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Raihan-Sharif&color=blueviolet&style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Raihan-Sharif?style=for-the-badge&color=yellow)
+![Followers](https://img.shields.io/github/followers/Raihan-Sharif?style=for-the-badge&color=orange)
+
+</div>
+
+---
+
+<div align="center">
+
+*Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out for collaboration opportunities. Let's build something amazing together! 🚀*
+
+</div>
