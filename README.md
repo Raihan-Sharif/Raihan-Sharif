@@ -117,8 +117,8 @@ currently_learning: ["DevOps", "Cloud Technologies", "Blockchain"]
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SignalR](https://img.shields.io/badge/SignalR-FF2D92?style=for-the-badge&logo=signalr&logoColor=white)
 
 </div>
@@ -186,7 +186,7 @@ currently_learning: ["DevOps", "Cloud Technologies", "Blockchain"]
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raihan-Sharif&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=A8B2D1&sideLabels=A8B2D1&currStreakNum=F8D866&sideNums=F8D866)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Raihan-Sharif&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=A8B2D1&sideLabels=A8B2D1&currStreakNum=F8D866&sideNums=F8D866)](https://github.com/Raihan-Sharif)
 
 </div>
 
